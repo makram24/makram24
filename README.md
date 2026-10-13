@@ -4,7 +4,7 @@
 
 ### Full-Stack Software Developer · AI Agents · IoT & Smart Cities
 
-Building practical software—from React applications and cloud backends to AI-assisted developer tools and connected systems.
+Building practical software from React applications and cloud backends to AI-assisted developer tools and connected systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://makramalmoghrabi.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makram-almoghrabi/)
